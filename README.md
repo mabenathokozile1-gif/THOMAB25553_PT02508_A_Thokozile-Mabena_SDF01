@@ -12,7 +12,7 @@
   while exploring **Github and version control** to share my work!
 - 🤖 I love problem-solving and working on creative projects,turning ideas into working applications.
 - 💡 My goal is to grow into a full-stack developer and contribute to real-world projects.
-- 🔥 I'm eager to collaborate, learn from others, and improve with eveery challenge.
+- 🔥 I'm eager to collaborate, learn from others, and improve with every challenge.
 
 ---
 
