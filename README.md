@@ -1,6 +1,6 @@
 # My First Repo
 
-# 👋 Hi, I'm Thokozile
+# Hi, I'm Thokozile
 
 🌱 A Beginner Software Developer who loves exploring code and building fun, creative projects while learning along the way. I may just be starting out, but I'm eager to grow, experiment with new tools, and share my journey as I improve my coding skills and create cool things with technology 🚀
 
@@ -8,11 +8,11 @@
 
 ## 🎯 About Me
 
-- 🎓 Currently, I'm learning **HTML, CSS, and JavaScript**
+- Currently, I'm learning **HTML, CSS, and JavaScript**
   while exploring **Github and version control** to share my work!
-- 🤖 I love problem-solving and working on creative projects,turning ideas into working applications.
-- 💡 My goal is to grow into a full-stack developer and contribute to real-world projects.
-- 🔥 I'm eager to collaborate, learn from others, and improve with every challenge.
+- I love problem-solving and working on creative projects,turning ideas into working applications.
+- My goal is to grow into a full-stack developer and contribute to real-world projects.
+- I'm eager to collaborate, learn from others, and improve with every challenge.
 
 ---
 
@@ -33,12 +33,12 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Clear Communication Skills
-- 🎯 Problem-Solving Mindset
-- 🚀 Adaptability and Willingness to learn
-- ⏳ Time Management
-- 🎨 Attention to Detail
+- Teamwork & Collaboration
+- Clear Communication Skills
+- Problem-Solving Mindset
+- Adaptability and Willingness to learn
+- Time Management
+- Attention to Detail
 
 ---
 
@@ -61,10 +61,10 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📚 Learning Goals
 
-- 🚀 Get comfortable using Git and GitHub and understand Git workflow
-- 🎨 Gain hands-on experience with HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
-- 🎯 Project Development, Debugging and Problem-solving
+- Get comfortable using Git and GitHub and understand Git workflow
+- Gain hands-on experience with HTML, CSS, and JavaScript
+- Build real-world projects and collaborate with others
+- Project Development, Debugging and Problem-solving
 
 ---
 
@@ -82,9 +82,9 @@ https://linkedin.com/in/thokozile-mabena-b738b21a8
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+I love learning new things and can't wait to build my first website!
 
-🔥 I love to code late at night because it helps me enter a "flow state" where times seems to disappear!
+I love to code late at night because it helps me enter a "flow state" where times seems to disappear!
 
 ---
 
