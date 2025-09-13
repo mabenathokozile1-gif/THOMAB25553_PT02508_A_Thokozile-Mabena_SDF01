@@ -86,6 +86,9 @@ I love learning new things and can't wait to build my first website!
 
 I love to code late at night because it helps me enter a "flow state" where times seems to disappear!
 
+Funny fact: No one in my family is entirely sure what I'm studying.
+Checkout this [link](https://www.freedomthirtyfiveblog.com/kj4tv8dlagreat/wp-content/uploads/2012/12/12_12_facebook_software_developer.jpg)
+
 ---
 
 ## 🏆 GitHub Stats
