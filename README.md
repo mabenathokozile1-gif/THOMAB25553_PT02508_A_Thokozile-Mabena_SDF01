@@ -10,7 +10,7 @@
 
 - Currently, I'm learning **HTML, CSS, and JavaScript**
   while exploring **Github and version control** to share my work!
-- I love problem-solving and working on creative projects,turning ideas into working applications.
+- I love problem-solving and working on creative projects, turning ideas into working applications.
 - My goal is to grow into a full-stack developer and contribute to real-world projects.
 - I'm eager to collaborate, learn from others, and improve with every challenge.
 
@@ -23,6 +23,7 @@
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
+- VS Code
 
 **Future Technologies:**
 
@@ -87,7 +88,7 @@ I love learning new things and can't wait to build my first website!
 I love to code late at night because it helps me enter a "flow state" where times seems to disappear!
 
 Funny fact: No one in my family is entirely sure what I'm studying.
-Checkout this [link](https://www.freedomthirtyfiveblog.com/kj4tv8dlagreat/wp-content/uploads/2012/12/12_12_facebook_software_developer.jpg)
+Check this out [link](https://www.freedomthirtyfiveblog.com/kj4tv8dlagreat/wp-content/uploads/2012/12/12_12_facebook_software_developer.jpg)
 
 ---
 
